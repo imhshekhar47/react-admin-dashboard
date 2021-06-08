@@ -6,7 +6,6 @@ import {
     LastPage as LastPageIcon,
     Menu as MenuIcon,
     Notifications as NotificationsIcon,
-    Work as WorkIcon
 } from '@material-ui/icons';
 import React, { useState } from 'react';
 import { Link as RouterLink } from 'react-router-dom';
