@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: admin-dashboard
-        image: imhshekhar47/admin-dashboard:4
+        image: imhshekhar47/admin-dashboard:latest
         imagePullPolicy: IfNotPresent 
         ports: 
         - name: http
